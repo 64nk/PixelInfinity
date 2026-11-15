@@ -112,3 +112,7 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Lokale Sicherungskopien (nicht hochladen)
+/_Backup_vor_Claude_2026-11-14/
+.DS_Store
